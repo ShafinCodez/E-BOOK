@@ -102,7 +102,7 @@ body {
     width: 100%;
     filter: drop-shadow(0 30px 20px rgba(0,0,0,0.3));
     animation: float 6s ease-in-out infinite;
-    margin-left: 50px; /* <-- ADDED */
+    margin-left: 20px;
 }
 @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-20px); } }
 
